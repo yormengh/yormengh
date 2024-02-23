@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DevOps Projocts
 - 📫 How to reach me ...Am reacheable via email
 - 😄 Pronouns: ... Alpharian
-- ⚡ Fun fact: ... none really
+- ⚡ Fun fact: ... like being happy
 
 <!---
 yormengh/yormengh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
